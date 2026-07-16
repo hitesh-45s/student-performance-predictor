@@ -1,0 +1,20 @@
+{
+  "Random Forest": {
+    "Semester 1": "89.5%",
+    "Semester 2": "93.0%",
+    "Semester 3": "91.0%",
+    "Semester 4": "88.5%"
+  },
+  "XGBoost": {
+    "Semester 1": "91.0%",
+    "Semester 2": "91.0%",
+    "Semester 3": "91.5%",
+    "Semester 4": "90.5%"
+  },
+  "SVM": {
+    "Semester 1": "90.5%",
+    "Semester 2": "93.0%",
+    "Semester 3": "90.5%",
+    "Semester 4": "90.0%"
+  }
+}
